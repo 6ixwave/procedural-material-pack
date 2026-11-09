@@ -1,8 +1,8 @@
-@echo off
+﻿@echo off
 setlocal
 set "BLENDER=C:\Program Files\Blender Foundation\Blender 5.2\blender.exe"
-set "SCRIPT=C:\Users\aleks\Downloads\earn-auto\blender_assets\render_one.py"
-set "LOG=C:\Users\aleks\Downloads\earn-auto\blender_assets\full_render.log"
+set "SCRIPT=%~dp0\render_one.py"
+set "LOG=%~dp0\full_render.log"
 
 echo === BLENDER MATERIAL BATCH: %date% %time% === > "%LOG%"
 
@@ -13,3 +13,4 @@ for %%M in (wood_oak wood_walnut brushed_steel copper concrete marble_white gran
 )
 
 echo === BATCH COMPLETE: %date% %time% === >> "%LOG%"
+

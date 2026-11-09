@@ -26,3 +26,7 @@ secrets.*
 *.zip
 *.whl
 *.blend
+
+# Logs
+*.log
+*.crash.txt

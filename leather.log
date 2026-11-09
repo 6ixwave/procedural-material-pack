@@ -1,8 +1,0 @@
-BlenderMCP addon registered
-RENDERING: leather_brown  (512px, 64spp, EEVEE)
-Error   : EXCEPTION_ACCESS_VIOLATION
-Address : 0x00007FFB6044CA43
-Module  : atio6axx.dll
-Thread  : 00003f88
-Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
-Writing: C:\Users\aleks\AppData\Local\Temp\blender.crash.txt

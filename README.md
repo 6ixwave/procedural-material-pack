@@ -56,3 +56,7 @@
 
 - [logscan-cli](https://github.com/6ixwave/logscan) — zero-dep Python log analyzer (MIT)
 
+
+---
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-6edbf6?logo=githubsponsors)](https://github.com/sponsors/6ixwave) | [Ko-fi](https://ko-fi.com/6ixwave)
+

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://6ixwave.github.io/procedural-material-pack/sitemap.xml

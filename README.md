@@ -1,6 +1,6 @@
 ﻿# Procedural Material Pack
 
-12 procedural PBR materials for **Blender 4.2+**. CC0 license вЂ” free for any use, commercial included.
+**44** procedural PBR materials for **Blender 4.2+**. CC0 license вЂ” free for any use, commercial included.
 
 ## Gallery
 
@@ -63,8 +63,8 @@
 
 ## Files
 
-- 12 Г— `.blend` вЂ” each contains a test sphere with the material + HDRI environment
-- 12 Г— preview PNG (512Г—512, 64 spp)
+- 44 Г— `.blend` вЂ” each contains a test plane with the material + sun light
+- 44 Г— preview PNG (512Г—512, Cycles 16 spp)
 - `PACK_README.txt` вЂ” usage notes
 
 ## Requirements

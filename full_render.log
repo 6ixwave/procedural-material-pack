@@ -1,0 +1,163 @@
+=== BLENDER MATERIAL BATCH: 09.11.2026 19:49:40,08 === 
+[wood_oak] starting... 
+BlenderMCP addon registered
+RENDERING: wood_oak  (512px, 64spp, EEVEE)
+00:03.531  render           | Saved: 'C:\Users\aleks\Downloads\earn-auto\blender_assets\output\preview_wood_oak.png'
+BlenderMCP addon unregistered
+  OK preview -> preview_wood_oak.png
+Info: Saved as "wood_oak.blend"
+  OK blend   -> wood_oak.blend
+DONE: wood_oak
+00:03.781  reports          | ERROR Cannot read file "C:\Users\aleks\Downloads\earn-auto\blender_assets\wood_oak": No such file or directory
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit
+[wood_walnut] starting... 
+BlenderMCP addon registered
+RENDERING: wood_walnut  (512px, 64spp, EEVEE)
+00:02.469  render           | Saved: 'C:\Users\aleks\Downloads\earn-auto\blender_assets\output\preview_wood_walnut.png'
+BlenderMCP addon unregistered
+  OK preview -> preview_wood_walnut.png
+Info: Saved as "wood_walnut.blend"
+  OK blend   -> wood_walnut.blend
+DONE: wood_walnut
+00:02.625  reports          | ERROR Cannot read file "C:\Users\aleks\Downloads\earn-auto\blender_assets\wood_walnut": No such file or directory
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit
+[brushed_steel] starting... 
+BlenderMCP addon registered
+RENDERING: brushed_steel  (512px, 64spp, EEVEE)
+00:03.328  render           | Saved: 'C:\Users\aleks\Downloads\earn-auto\blender_assets\output\preview_brushed_steel.png'
+BlenderMCP addon unregistered
+  OK preview -> preview_brushed_steel.png
+Info: Saved as "brushed_steel.blend"
+  OK blend   -> brushed_steel.blend
+DONE: brushed_steel
+00:03.735  reports          | ERROR Cannot read file "C:\Users\aleks\Downloads\earn-auto\blender_assets\brushed_steel": No such file or directory
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit
+[copper] starting... 
+BlenderMCP addon registered
+RENDERING: copper  (512px, 64spp, EEVEE)
+00:02.375  render           | Saved: 'C:\Users\aleks\Downloads\earn-auto\blender_assets\output\preview_copper.png'
+BlenderMCP addon unregistered
+  OK preview -> preview_copper.png
+Info: Saved as "copper.blend"
+  OK blend   -> copper.blend
+DONE: copper
+00:02.531  reports          | ERROR Cannot read file "C:\Users\aleks\Downloads\earn-auto\blender_assets\copper": No such file or directory
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit
+[concrete] starting... 
+BlenderMCP addon registered
+RENDERING: concrete  (512px, 64spp, EEVEE)
+00:02.562  render           | Saved: 'C:\Users\aleks\Downloads\earn-auto\blender_assets\output\preview_concrete.png'
+BlenderMCP addon unregistered
+  OK preview -> preview_concrete.png
+Info: Saved as "concrete.blend"
+  OK blend   -> concrete.blend
+DONE: concrete
+00:02.718  reports          | ERROR Cannot read file "C:\Users\aleks\Downloads\earn-auto\blender_assets\concrete": No such file or directory
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit
+[marble_white] starting... 
+BlenderMCP addon registered
+RENDERING: marble_white  (512px, 64spp, EEVEE)
+00:02.907  render           | Saved: 'C:\Users\aleks\Downloads\earn-auto\blender_assets\output\preview_marble_white.png'
+BlenderMCP addon unregistered
+  OK preview -> preview_marble_white.png
+Info: Saved as "marble_white.blend"
+  OK blend   -> marble_white.blend
+DONE: marble_white
+00:03.125  reports          | ERROR Cannot read file "C:\Users\aleks\Downloads\earn-auto\blender_assets\marble_white": No such file or directory
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit
+[granite_gray] starting... 
+BlenderMCP addon registered
+RENDERING: granite_gray  (512px, 64spp, EEVEE)
+00:02.453  render           | Saved: 'C:\Users\aleks\Downloads\earn-auto\blender_assets\output\preview_granite_gray.png'
+BlenderMCP addon unregistered
+  OK preview -> preview_granite_gray.png
+Info: Saved as "granite_gray.blend"
+  OK blend   -> granite_gray.blend
+DONE: granite_gray
+00:02.609  reports          | ERROR Cannot read file "C:\Users\aleks\Downloads\earn-auto\blender_assets\granite_gray": No such file or directory
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit
+[leather_brown] starting... 
+BlenderMCP addon registered
+RENDERING: leather_brown  (512px, 64spp, EEVEE)
+Traceback (most recent call last):
+  File "C:\Users\aleks\Downloads\earn-auto\blender_assets\render_one.py", line 60, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\aleks\Downloads\earn-auto\blender_assets\render_one.py", line 43, in main
+    mat = builder()
+  File "C:\Users\aleks\Downloads\earn-auto\blender_assets\generate_assets.py", line 300, in mat_leather
+    vor.distance_metric = 'MINKOVSKY'; vor.inputs['Exponent'].default_value = 3
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ShaderNodeTexVoronoi' object has no attribute 'distance_metric'
+BlenderMCP addon unregistered
+00:00.688  reports          | ERROR Cannot read file "C:\Users\aleks\Downloads\earn-auto\blender_assets\leather_brown": No such file or directory
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit
+[fabric_weave_red] starting... 
+BlenderMCP addon registered
+RENDERING: fabric_weave_red  (512px, 64spp, EEVEE)
+00:02.922  render           | Saved: 'C:\Users\aleks\Downloads\earn-auto\blender_assets\output\preview_fabric_weave_red.png'
+BlenderMCP addon unregistered
+  OK preview -> preview_fabric_weave_red.png
+Info: Saved as "fabric_weave_red.blend"
+  OK blend   -> fabric_weave_red.blend
+DONE: fabric_weave_red
+00:03.141  reports          | ERROR Cannot read file "C:\Users\aleks\Downloads\earn-auto\blender_assets\fabric_weave_red": No such file or directory
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit
+[glass_clear] starting... 
+BlenderMCP addon registered
+RENDERING: glass_clear  (512px, 64spp, EEVEE)
+00:03.250  render           | Saved: 'C:\Users\aleks\Downloads\earn-auto\blender_assets\output\preview_glass_clear.png'
+BlenderMCP addon unregistered
+  OK preview -> preview_glass_clear.png
+Info: Saved as "glass_clear.blend"
+  OK blend   -> glass_clear.blend
+DONE: glass_clear
+00:03.594  reports          | ERROR Cannot read file "C:\Users\aleks\Downloads\earn-auto\blender_assets\glass_clear": No such file or directory
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit
+[gold_polished] starting... 
+BlenderMCP addon registered
+RENDERING: gold_polished  (512px, 64spp, EEVEE)
+00:02.516  render           | Saved: 'C:\Users\aleks\Downloads\earn-auto\blender_assets\output\preview_gold_polished.png'
+BlenderMCP addon unregistered
+  OK preview -> preview_gold_polished.png
+Info: Saved as "gold_polished.blend"
+  OK blend   -> gold_polished.blend
+DONE: gold_polished
+00:02.719  reports          | ERROR Cannot read file "C:\Users\aleks\Downloads\earn-auto\blender_assets\gold_polished": No such file or directory
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit
+[bark_oak] starting... 
+BlenderMCP addon registered
+RENDERING: bark_oak  (512px, 64spp, EEVEE)
+00:02.234  render           | Saved: 'C:\Users\aleks\Downloads\earn-auto\blender_assets\output\preview_bark_oak.png'
+BlenderMCP addon unregistered
+  OK preview -> preview_bark_oak.png
+Info: Saved as "bark_oak.blend"
+  OK blend   -> bark_oak.blend
+DONE: bark_oak
+00:02.406  reports          | ERROR Cannot read file "C:\Users\aleks\Downloads\earn-auto\blender_assets\bark_oak": No such file or directory
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit
+=== BATCH COMPLETE: 09.11.2026 19:50:31,70 === 

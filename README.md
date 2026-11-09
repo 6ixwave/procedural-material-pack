@@ -1,10 +1,10 @@
-# Procedural Material Pack
+﻿# Procedural Material Pack
 
-12 procedural PBR materials for **Blender 4.2+**. CC0 license — free for any use, commercial included.
+12 procedural PBR materials for **Blender 4.2+**. CC0 license вЂ” free for any use, commercial included.
 
 ## Gallery
 
-👁️ Visual preview: https://6ixwave.github.io/procedural-material-pack/
+рџ‘ЃпёЏ Visual preview: https://6ixwave.github.io/procedural-material-pack/
 
 ## Quick start
 
@@ -31,9 +31,9 @@
 
 ## Files
 
-- 12 × `.blend` — each contains a test sphere with the material + HDRI environment
-- 12 × preview PNG (512×512, 64 spp)
-- `PACK_README.txt` — usage notes
+- 12 Г— `.blend` вЂ” each contains a test sphere with the material + HDRI environment
+- 12 Г— preview PNG (512Г—512, 64 spp)
+- `PACK_README.txt` вЂ” usage notes
 
 ## Requirements
 
@@ -50,4 +50,9 @@
 
 ## Author
 
-6ixwave · [GitHub](https://github.com/6ixwave)
+6ixwave В· [GitHub](https://github.com/6ixwave)
+
+## Related
+
+- [logscan-cli](https://github.com/6ixwave/logscan) — zero-dep Python log analyzer (MIT)
+
